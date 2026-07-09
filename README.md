@@ -1,17 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ConectaTech
 
-# Run and deploy your AI Studio app
+Frontend da plataforma ConectaTech.
 
-This contains everything you need to run your app locally.
+## Tecnologias
 
-View your app in AI Studio: https://ai.studio/apps/f8d883b6-e1d1-45d1-8de4-c981dda6d657
+- React
+- TypeScript
+- Vite
+- Firebase
+
+## Como executar
+
+```bash
+npm install
+npm run dev
+```
+
+## Status
+
+🚧 Em desenvolvimento.
 
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
