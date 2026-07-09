@@ -1,0 +1,6 @@
+{
+  "name": "ConectaTech",
+  "description": "Plataforma moderna para encontrar eventos de tecnologia, fazer networking e acompanhar sua agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
